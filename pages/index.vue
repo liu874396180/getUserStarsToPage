@@ -57,7 +57,7 @@ const openStarPage = (url: string) => {
 }
 
 const getMyStars = () => {
-  window.open('https://github.com/xiaoxiunique/ustars')
+  window.open('https://github.com/liu874396180/getUserStarsToPage')
 }
 
 // 添加菜单状态控制
