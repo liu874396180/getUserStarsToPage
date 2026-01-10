@@ -2,7 +2,7 @@ name: Fetch Star Projects
 
 on:
   schedule:
-    - cron: '0 0 * * 1'  # 每天运行
+    - cron: '0 0 * * 1'  # 每周1运行
   workflow_dispatch:      # 允许手动触发
 
 jobs:
